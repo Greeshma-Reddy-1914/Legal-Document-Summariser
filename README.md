@@ -14,7 +14,7 @@ To get started with the **rekroot** backend locally, follow these steps:
 2. Navigate to the project directory:
 
     ```
-    cd legal-documents-summarizer
+    cd Legal-Documents-Summarizer
     ```
 
 3. Install the necessary dependencies:
