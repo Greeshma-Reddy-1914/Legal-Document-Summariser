@@ -28,3 +28,6 @@ To get started with the **rekroot** backend locally, follow these steps:
     ```
     npm run dev
     ```
+    
+5. Upload the case file you want a Summary of and Upload the cleaned words file available in the Repository.
+6. Uploaded files will be saved into the **"uploads"** folder
