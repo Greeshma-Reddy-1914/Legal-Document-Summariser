@@ -8,7 +8,7 @@ To get started with the **rekroot** backend locally, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/VoidVampire/legal-documents-summarizer.git
+    git clone https://github.com/Greeshma-Reddy-1914/legal-documents-summarizer.git
     ```
 
 2. Navigate to the project directory:
